@@ -2,7 +2,7 @@
 
 * Web Tesnet :[shardeum.org](https://shardeum.org/incentivized-testnet?referral-code=0xRucika)
 
-### Install dab Run Node
+### Install dan Run Node
 
 ```
 wget https://raw.githubusercontent.com/Nanangwibow0/Saherdeum/main/shardeum.sh && chmod +x shardeum.sh && ./shardeum.sh
